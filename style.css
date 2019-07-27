@@ -11,7 +11,7 @@ body {
 .header {
   z-index: 3;
   position: relative;
-  height: 700px;
+  height: 720px;
   width: 450px;
   /*border-style: solid;*/
   border-width: 1px;
@@ -20,7 +20,7 @@ body {
   color: black;
   text-align: center;
   top: 40px;
-  left: 40px;
+  left: 30px;
 }
 
 .push-down {
@@ -36,7 +36,8 @@ body {
   width: 250px;
   height: 250px;
   border-radius: 50%;
-  background-color: rgb(169, 175, 98);
+  background: url('IMG_1395.jpeg') no-repeat 50% 50%;
+  background-size: contain;
   position: relative;
   left: 100px;
 }
@@ -47,7 +48,7 @@ body {
 
 .pink-strip {
   width: 8px;
-  height: 550px;
+  height: 600px;
   position: absolute;
   background-color: rgb(255, 20, 147);
   left: 15px;
@@ -90,11 +91,11 @@ body {
 /*about*/
 .about-title-box {
   width: 200px;
-  height: 300px;
+  height: 250px;
 }
 
 .blockW1 {
-  height: 300px;
+  height: 100px;
   background-color: white;
   color: black;
   clear: both;
@@ -102,7 +103,7 @@ body {
 
 .push-slightly-left {
   position: relative;
-  left: 30px;
+  left: 70px;
 }
 
 .about-text {
@@ -124,7 +125,7 @@ body {
   border-color: white;
   position: relative;
   top: 40px;
-  left: 70px;
+  left: 110px;
 }
 
 .skills-box2 {
@@ -135,7 +136,7 @@ body {
   border-color: white;
   position: relative;
   top: 40px;
-  left: 135px;
+  left: 175px;
 }
 
 .skills-box3 {
@@ -146,7 +147,7 @@ body {
   border-color: white;
   position: relative;
   top: 40px;
-  left: 200px;
+  left: 240px;
 }
 
 /*experience*/
@@ -172,7 +173,7 @@ body {
   border-width: 2px;
   position: relative;
   top: 10px;
-  left: 90px;
+  left: 130px;
 }
 
 .experience-box1 {
@@ -183,7 +184,7 @@ body {
   border-width: 2px;
   position: relative;
   top: 10px;
-  left: 90px;
+  left: 130px;
 }
 
 /*projects*/
@@ -209,7 +210,7 @@ body {
   border-width: 2px;
   position: relative;
   top: 10px;
-  left: 120px;
+  left: 160px;
 }
 
 .projects-box1 {
@@ -220,7 +221,7 @@ body {
   border-width: 2px;
   position: relative;
   top: 10px;
-  left: 120px;
+  left: 160px;
 }
 
 .projects-box2 {
@@ -231,7 +232,7 @@ body {
   border-width: 2px;
   position: relative;
   top: 10px;
-  left: 120px;
+  left: 160px;
 }
 
 .projects-box3 {
@@ -242,7 +243,7 @@ body {
   border-width: 2px;
   position: relative;
   top: 10px;
-  left: 120px;
+  left: 160px;
 }
 
 /*interests*/
@@ -267,7 +268,7 @@ body {
   border-color: black;
   border-width: 2px;
   position: relative;
-  left: 70px;
+  left: 100px;
 }
 
 .interests-box2 {
@@ -277,7 +278,7 @@ body {
   border-color: black;
   border-width: 2px;
   position: relative;
-  left: 130px;
+  left: 160px;
 }
 
 .interests-box3 {
@@ -287,7 +288,7 @@ body {
   border-color: black;
   border-width: 2px;
   position: relative;
-  left: 180px;
+  left: 210px;
 }
 
 .interests-box4 {
@@ -297,7 +298,7 @@ body {
   border-color: black;
   border-width: 2px;
   position: relative;
-  left: 230px;
+  left: 260px;
 }
 
 .center {
@@ -308,61 +309,63 @@ body {
   height: 453px;
   width: 340px;
   background-color: red;
+  background: url('IMG_1767.jpeg') no-repeat 50% 50%;
   background-size: contain;
   position: relative;
   top: 30px;
-  left: 160px;
+  left: 190px;
   clear: left;
 }
 
 .picture2 {
   height: 453px;
   width: 340px;
-  background-color: blue;
+  background: url('IMG_1196.jpeg') no-repeat 50% 50%;
   background-size: contain;
   position: relative;
   top: 30px;
-  left: 180px;
+  left: 210px;
 }
 
 .picture3 {
   height: 533px;
   width: 300px;
-  background-color: purple;
+  background: url('IMG_0512.mov') no-repeat 50% 50%;
   background-size: contain;
   position: relative;
   top: 30px;
-  left: 200px;
+  left: 230px;
 }
 
 .picture4 {
   height: 393px;
   width: 700px;
-  background-color: green;
+  background: url('IMG_1093.MOV') no-repeat 50% 50%;
   background-size: contain;
   position: relative;
   top: -30px;
-  left: 160px;
+  left: 190px;
 }
 
 .picture5 {
   height: 533px;
   width: 300px;
-  background-color: orange;
+  background: url('IMG_0011.MOV') no-repeat 50% 50%;
   background-size: contain;
   position: relative;
   top: 50px;
-  left: 180px;
+  left: 210px;
 }
 
 .picture6 {
-  height: 453px;
-  width: 340px;
-  background-color: yellow;
+  height: 340px;
+  width: 453px;
+  transform: rotate(90deg);
+  background: url('IMG_0926.jpeg') no-repeat 50% 50%;
   background-size: contain;
   position: relative;
-  top: -150px;
-  left: 160px;
+  top: -93px;
+  left: 133px;
   clear: left;
 }
 
@@ -373,16 +376,15 @@ body {
   background-size: contain;
   position: relative;
   top: -150px;
-  left: 180px;
+  left: 100px;
 }
 
 /*other*/
 .picture {
   z-index: 1;
   height: 700px;
-  width: 700px;
-  background: url("https://travel.usnews.com/dims4/USNEWS/9d96f19/2147483647/resize/255x255%5E%3E/crop/255x255/quality/85/?url=/static-travel/images/destinations/84/view_of_magens_bay.jpg")
-    no-repeat 50% 50%;
+  width: 933px;
+  background: url('IMG_1137.jpeg') no-repeat 50% 50%;
   background-size: contain;
   top: 0px;
   right: 0px;
