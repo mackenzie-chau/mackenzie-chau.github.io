@@ -338,7 +338,7 @@ body {
 .picture4 {
   height: 393px;
   width: 700px;
-  position: relative;
+  position: relative; 
   top: -30px;
   left: 190px;
 }
