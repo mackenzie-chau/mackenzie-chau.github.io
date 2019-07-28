@@ -330,8 +330,6 @@ body {
 .picture3 {
   height: 533px;
   width: 300px;
-  background: url('IMG_0512.mov') no-repeat 50% 50%;
-  background-size: contain;
   position: relative;
   top: 30px;
   left: 230px;
@@ -340,8 +338,6 @@ body {
 .picture4 {
   height: 393px;
   width: 700px;
-  background: url('IMG_1093.MOV') no-repeat 50% 50%;
-  background-size: contain;
   position: relative;
   top: -30px;
   left: 190px;
@@ -350,8 +346,6 @@ body {
 .picture5 {
   height: 533px;
   width: 300px;
-  background: url('IMG_0011.MOV') no-repeat 50% 50%;
-  background-size: contain;
   position: relative;
   top: 50px;
   left: 210px;
