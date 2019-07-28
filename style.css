@@ -372,7 +372,7 @@ body {
 .picture7 {
   height: 453px;
   width: 340px;
-  background-color: grey;
+  background: url('IMG_0652.jpeg') no-repeat 50% 50%;
   background-size: contain;
   position: relative;
   top: -150px;
