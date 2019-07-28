@@ -330,8 +330,6 @@ body {
 .picture3 {
   height: 533px;
   width: 300px;
-  background: url('IMG_0512.mov') no-repeat 50% 50%;
-  background-size: contain;
   position: relative;
   top: 30px;
   left: 230px;
