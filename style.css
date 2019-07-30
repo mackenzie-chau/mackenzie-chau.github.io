@@ -392,6 +392,29 @@ body {
   left: 190px;
 }
 
+.picture10 {
+  height: 480px;
+  width: 360px;
+  background: url('IMG_1588.jpeg') no-repeat 50% 50%;
+  background-size: contain;
+  position: relative;
+  top: 200px;
+  left: -510px;
+}
+
+.picture11 {
+  height: 480px;
+  width: 640px;
+  border-style: solid;
+  border-color: red;
+  border-width: 2px;
+  /*background: url('IMG_1196.jpeg') no-repeat 50% 50%;
+  background-size: contain;*/
+  position: relative;
+  top: -282px;
+  left: 570px;
+}
+
 /*other*/
 .picture {
   z-index: 1;
