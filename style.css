@@ -405,11 +405,8 @@ body {
 .picture11 {
   height: 480px;
   width: 640px;
-  border-style: solid;
-  border-color: black;
-  border-width: 2px;
-  /*background: url('IMG_1196.jpeg') no-repeat 50% 50%;
-  background-size: contain;*/
+  background: url('IMG_0706.JPG') no-repeat 50% 50%;
+  background-size: contain;
   position: relative;
   top: -282px;
   left: 570px;
