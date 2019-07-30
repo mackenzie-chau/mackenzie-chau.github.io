@@ -338,7 +338,7 @@ body {
 .picture4 {
   height: 393px;
   width: 700px;
-  position: relative; 
+  position: relative;
   top: -30px;
   left: 190px;
 }
@@ -347,7 +347,7 @@ body {
   height: 533px;
   width: 300px;
   position: relative;
-  top: 50px;
+  top: 100px;
   left: 210px;
 }
 
@@ -371,6 +371,25 @@ body {
   position: relative;
   top: -150px;
   left: 100px;
+}
+
+.picture8 {
+  height: 533px;
+  width: 300px;
+  border-style: solid;
+  border-color: red;
+  border-width: 2px;
+  position: relative;
+  top: 175px;
+  left: 115px;
+}
+
+.picture9 {
+  height: 393px;
+  width: 700px;
+  position: relative;
+  top: -215px;
+  left: 190px;
 }
 
 /*other*/
