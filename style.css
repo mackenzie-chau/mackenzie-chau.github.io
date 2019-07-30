@@ -118,7 +118,7 @@ body {
 }
 
 .skills-box1 {
-  height: 320px;
+  height: 340px;
   width: 230px;
   border-style: solid;
   border-width: 2px;
@@ -129,7 +129,7 @@ body {
 }
 
 .skills-box2 {
-  height: 320px;
+  height: 340px;
   width: 230px;
   border-style: solid;
   border-width: 2px;
@@ -140,7 +140,7 @@ body {
 }
 
 .skills-box3 {
-  height: 320px;
+  height: 340px;
   width: 230px;
   border-style: solid;
   border-width: 2px;
@@ -262,7 +262,7 @@ body {
 }
 
 .interests-box1 {
-  height: 260px;
+  height: 290px;
   width: 200px;
   border-style: solid;
   border-color: black;
@@ -272,7 +272,7 @@ body {
 }
 
 .interests-box2 {
-  height: 260px;
+  height: 290px;
   width: 200px;
   border-style: solid;
   border-color: black;
@@ -282,7 +282,7 @@ body {
 }
 
 .interests-box3 {
-  height: 260px;
+  height: 290px;
   width: 200px;
   border-style: solid;
   border-color: black;
@@ -292,7 +292,7 @@ body {
 }
 
 .interests-box4 {
-  height: 260px;
+  height: 290px;
   width: 210px;
   border-style: solid;
   border-color: black;
@@ -376,9 +376,6 @@ body {
 .picture8 {
   height: 533px;
   width: 300px;
-  border-style: solid;
-  border-color: black;
-  border-width: 2px;
   position: relative;
   top: 175px;
   left: 115px;
@@ -415,8 +412,8 @@ body {
 /*other*/
 .picture {
   z-index: 1;
-  height: 700px;
-  width: 933px;
+  height: 637px;
+  width: 850px;
   background: url('IMG_1137.jpeg') no-repeat 50% 50%;
   background-size: contain;
   top: 0px;
