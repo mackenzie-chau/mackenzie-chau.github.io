@@ -377,7 +377,7 @@ body {
   height: 533px;
   width: 300px;
   border-style: solid;
-  border-color: red;
+  border-color: black;
   border-width: 2px;
   position: relative;
   top: 175px;
@@ -388,7 +388,7 @@ body {
   height: 393px;
   width: 700px;
   position: relative;
-  top: -215px;
+  top: -218px;
   left: 190px;
 }
 
@@ -406,7 +406,7 @@ body {
   height: 480px;
   width: 640px;
   border-style: solid;
-  border-color: red;
+  border-color: black;
   border-width: 2px;
   /*background: url('IMG_1196.jpeg') no-repeat 50% 50%;
   background-size: contain;*/
