@@ -410,31 +410,75 @@ body {
 }
 
 /*other*/
-.picture {
+.slider-container {
   z-index: 1;
   height: 637px;
   width: 850px;
-  background: url('IMG_1137.jpeg') no-repeat 50% 50%;
-  background-size: contain;
   top: 0px;
   right: 0px;
   position: absolute;
-  /*animation: slide 10s linear infinite;*/
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+  text-align: center;
 }
 
-/*@keyframes slide {
-  0%{background-image: url('IMG_1137.jpeg');}
+.image-container {
+  z-index: 1;
+  height: 637px;
+  width: 5100px;
+  position: relative;
+  transition: left 2s;
+  -webkit- transition: left 2s;
+  -moz- transition: left 2s;
+  -o- transition: left 2s;
+}
 
-  25%{background-image: url('IMG_0706.jpeg');}
+.slider-image {
+  z-index: 1;
+  float: left;
+  margin: 0px;
+  padding: 0px;
+}
 
-  50%{background-image: url('IMG_1040.jpeg');}
+.button-container {
+  z-index: 2;
+  top: -20px;
+  position: relative;
+}
 
-  75%{background-image: url('IMG_1231.jpeg');}
+.slider-button {
+  z-index: 2;
+  display: inline-block;
+  height: 10px;
+  width: 10px;
+  border-radius: 5px;
+  background-color: white;
+}
 
-  100%{background-image: url('IMG_1440.jpeg');}
+#slider-image1:target ~ .image-container {
+  left: 0px;
+}
 
-  100%{background: url('IMG_1704.jpeg');}
-}*/
+#slider-image2:target ~ .image-container {
+  left: -850px;
+}
+
+#slider-image3:target ~ .image-container {
+  left: -1700px;
+}
+
+#slider-image4:target ~ .image-container {
+  left: -2550px;
+}
+
+#slider-image5:target ~ .image-container {
+  left: -3400px;
+}
+
+#slider-image6:target ~ .image-container {
+  left: -4250px;
+}
 
 a:link {
   color: black;
