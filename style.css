@@ -58,6 +58,10 @@ body {
   margin: 8px;
 }
 
+.icons:hover {
+  opacity: 0.5;
+}
+
 /*Blocks*/
 .blockB {
   height: 500px;
