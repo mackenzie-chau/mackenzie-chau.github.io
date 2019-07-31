@@ -419,7 +419,22 @@ body {
   top: 0px;
   right: 0px;
   position: absolute;
+  /*animation: slide 10s linear infinite;*/
 }
+
+/*@keyframes slide {
+  0%{background-image: url('IMG_1137.jpeg');}
+
+  25%{background-image: url('IMG_0706.jpeg');}
+
+  50%{background-image: url('IMG_1040.jpeg');}
+
+  75%{background-image: url('IMG_1231.jpeg');}
+
+  100%{background-image: url('IMG_1440.jpeg');}
+
+  100%{background: url('IMG_1704.jpeg');}
+}*/
 
 a:link {
   color: black;
