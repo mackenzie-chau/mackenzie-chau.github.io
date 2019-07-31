@@ -54,6 +54,10 @@ body {
   left: 15px;
 }
 
+.margin {
+  margin: 8px;
+}
+
 /*Blocks*/
 .blockB {
   height: 500px;
