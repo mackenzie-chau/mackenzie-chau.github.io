@@ -247,7 +247,7 @@ body {
 }
 
 .projects-box2 {
-  height: 770px;
+  height: 540px;
   width: 850px;
   /*border-style: solid;*/
   border-color: red;
@@ -258,36 +258,42 @@ body {
 }
 
 .projects-picture2 {
-  height: 400px;
-  width: 400px;
+  height: 333px;
+  width: 250px;
   border-style: solid;
   border-color: red;
   border-width: 2px;
-  background: url('IMG_0054.JPG') no-repeat 50% 50%;
+  background: url('IMG_1767.jpeg') no-repeat 50% 50%;
   background-size: contain;
   position: relative;
   top: 20px;
-  left: 20px;
+  left: 0px;
 }
 
 .projects-picture3 {
-  height: 400px;
-  width: 300px;
-  background: url('IMG_0052.JPG') no-repeat 50% 50%;
+  height: 333px;
+  width: 250px;
+  border-style: solid;
+  border-color: red;
+  border-width: 2px;
+  background: url('IMG_0052.jpeg') no-repeat 50% 50%;
   background-size: contain;
   position: relative;
   top: 20px;
-  left: 20px;
+  left: 15px;
 }
 
 .projects-picture4 {
-  height: 400px;
-  width: 300px;
-  background: url('IMG_0053.JPG') no-repeat 50% 50%;
+  height: 333px;
+  width: 250px;
+  border-style: solid;
+  border-color: red;
+  border-width: 2px;
+  background: url('IMG_0053.jpeg') no-repeat 50% 50%;
   background-size: contain;
   position: relative;
   top: 20px;
-  left: 20px;
+  left: 30px;
 }
 
 .projects-box3 {
