@@ -203,21 +203,21 @@ body {
 
 /*projects*/
 .blockB1 {
-  height: 1100px;
+  height: 1450px;
   background-color: black;
   color: white;
   clear: both;
 }
 
 .projects-title-box {
-  height: 600px;
+  height: 1200px;
   /*border-style: solid;*/
   border-color: red;
   border-width: 2px;
 }
 
 .projects-box {
-  height: 240px;
+  height: 630px;
   width: 850px;
   /*border-style: solid;*/
   border-color: red;
@@ -225,6 +225,14 @@ body {
   position: relative;
   top: 10px;
   left: 160px;
+}
+
+.projects-picture1 {
+  height: 338px;
+  width: 600px;
+  position: relative;
+  top: 20px;
+  left: 120px;
 }
 
 .projects-box1 {
@@ -264,7 +272,7 @@ body {
   height: 225px;
   width: 400px;
   position: relative;
-  top: 30px;
+  top: 20px;
   left: 20px;
 }
 
@@ -272,7 +280,7 @@ body {
   height: 225px;
   width: 400px;
   position: relative;
-  top: 30px;
+  top: 20px;
   left: 30px;
 }
 
