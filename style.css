@@ -203,7 +203,7 @@ body {
 
 /*projects*/
 .blockB1 {
-  height: 1850px;
+  height: 1800px;
   background-color: black;
   color: white;
   clear: both;
@@ -247,7 +247,7 @@ body {
 }
 
 .projects-box2 {
-  height: 540px;
+  height: 520px;
   width: 850px;
   /*border-style: solid;*/
   border-color: red;
@@ -258,42 +258,45 @@ body {
 }
 
 .projects-picture2 {
-  height: 333px;
-  width: 250px;
-  border-style: solid;
+  height: 250px;
+  width: 333px;
+  /*border-style: solid;*/
   border-color: red;
   border-width: 2px;
-  background: url('IMG_1767.jpeg') no-repeat 50% 50%;
+  background: url('IMG_0201.JPG') no-repeat 50% 50%;
   background-size: contain;
   position: relative;
-  top: 20px;
-  left: 0px;
+  top: 40px;
+  left: -10px;
+  transform: rotate(90deg);
 }
 
 .projects-picture3 {
-  height: 333px;
-  width: 250px;
-  border-style: solid;
+  height: 250px;
+  width: 333px;
+  /*border-style: solid;*/
   border-color: red;
   border-width: 2px;
-  background: url('IMG_0052.jpeg') no-repeat 50% 50%;
+  background: url('IMG_0199.JPG') no-repeat 50% 50%;
   background-size: contain;
   position: relative;
-  top: 20px;
-  left: 15px;
+  top: 40px;
+  left: -60px;
+  transform: rotate(90deg);
 }
 
 .projects-picture4 {
-  height: 333px;
-  width: 250px;
-  border-style: solid;
+  height: 250px;
+  width: 333px;
+  /*border-style: solid;*/
   border-color: red;
   border-width: 2px;
-  background: url('IMG_0053.jpeg') no-repeat 50% 50%;
+  background: url('IMG_0200.JPG') no-repeat 50% 50%;
   background-size: contain;
   position: relative;
-  top: 20px;
-  left: 30px;
+  top: -210px;
+  left: 560px;
+  transform: rotate(90deg);
 }
 
 .projects-box3 {
