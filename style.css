@@ -203,14 +203,14 @@ body {
 
 /*projects*/
 .blockB1 {
-  height: 1450px;
+  height: 1850px;
   background-color: black;
   color: white;
   clear: both;
 }
 
 .projects-title-box {
-  height: 1200px;
+  height: 1600px;
   /*border-style: solid;*/
   border-color: red;
   border-width: 2px;
@@ -247,7 +247,7 @@ body {
 }
 
 .projects-box2 {
-  height: 170px;
+  height: 770px;
   width: 850px;
   /*border-style: solid;*/
   border-color: red;
@@ -255,6 +255,39 @@ body {
   position: relative;
   top: 10px;
   left: 160px;
+}
+
+.projects-picture2 {
+  height: 400px;
+  width: 300px;
+  border-style: solid;
+  border-color: red;
+  border-width: 2px;
+  background: url('IMG_0054.JPG') no-repeat 50% 50%;
+  background-size: contain;
+  position: relative;
+  top: 20px;
+  left: 20px;
+}
+
+.projects-picture3 {
+  height: 400px;
+  width: 300px;
+  background: url('IMG_0052.JPG') no-repeat 50% 50%;
+  background-size: contain;
+  position: relative;
+  top: 20px;
+  left: 20px;
+}
+
+.projects-picture4 {
+  height: 400px;
+  width: 300px;
+  background: url('IMG_0053.JPG') no-repeat 50% 50%;
+  background-size: contain;
+  position: relative;
+  top: 20px;
+  left: 20px;
 }
 
 .projects-box3 {
