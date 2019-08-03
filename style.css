@@ -203,7 +203,7 @@ body {
 
 /*projects*/
 .blockB1 {
-  height: 780px;
+  height: 1000px;
   background-color: black;
   color: white;
   clear: both;
@@ -250,14 +250,22 @@ body {
 }
 
 .projects-box3 {
-  height: 130px;
+  height: 500px;
   width: 850px;
-  /*border-style: solid;*/
+  border-style: solid;
   border-color: red;
   border-width: 2px;
   position: relative;
   top: 10px;
   left: 160px;
+}
+
+.projects-picture5 {
+  height: 225px;
+  width: 400px;
+  position: relative;
+  top: 30px;
+  left: 230px;
 }
 
 /*interests*/
