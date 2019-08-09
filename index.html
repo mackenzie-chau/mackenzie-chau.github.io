@@ -3,6 +3,22 @@
 	<head>
 		<title>Mackenzie Chau</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
+		<script type="text/javascript">
+		<!-->
+		var image1=new Image()
+		image1.src="IMG_1137.jpeg"
+		var image2=new Image()
+		image2.src="IMG_0706.jpeg"
+		var image3=new Image()
+		image3.src="IMG_1040.jpeg"
+		var image4=new Image()
+		image4.src="IMG_1231.jpeg"
+		var image5=new Image()
+		image5.src="IMG_1704.jpg"
+		var image6=new Image()
+		image6.src="IMG_1440.jpeg"
+		//-->
+		</script>
 	</head>
 	<body>
 	    <header class="header">
@@ -36,29 +52,23 @@
 	    </header>
 
 		<div class="slider-container">
-			<span id="slider-image1"></span>
-			<span id="slider-image2"></span>
-			<span id="slider-image3"></span>
-			<span id="slider-image4"></span>
-			<span id="slider-image5"></span>
-			<span id="slider-image6"></span>
-			<div class="image-container">
-				<img src="IMG_1137.jpeg" height="637px" width="850px" class="slider-image" >
-				<img src="IMG_0706.jpeg" height="637px" width="850px" class="slider-image" >
-				<img src="IMG_1040.jpeg" height="637px" width="850px" class="slider-image" >
-				<img src="IMG_1231.jpeg" height="637px" width="850px" class="slider-image" >
-				<img src="IMG_1704.jpg"  height="637px" width="850px" class="slider-image" >
-				<img src="IMG_1440.jpeg" height="637px" width="850px" class="slider-image" >
-			</div>
-			<div class="button-container">
-				<a href="#slider-image1" class="slider-button"></a>
-				<a href="#slider-image2" class="slider-button"></a>
-				<a href="#slider-image3" class="slider-button"></a>
-				<a href="#slider-image4" class="slider-button"></a>
-				<a href="#slider-image5" class="slider-button"></a>
-				<a href="#slider-image6" class="slider-button"></a>
-			</div>
+			<img src="IMG_1137.jpeg" name="slide" width="850" height="637">
 		</div>
+
+		<script type="text/javascript">
+		<!-->
+		var step=1
+		function slideit(){
+			document.images.slide.src=eval("image"+step+".src")
+			if(step<6)
+			step++
+			else
+			step=1
+			setTimeout("slideit()", 3000)
+		}
+		slideit()
+		//-->
+		</script>
 
 
 		<div>
