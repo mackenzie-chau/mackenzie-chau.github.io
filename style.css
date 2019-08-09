@@ -14,7 +14,7 @@ body {
   height: 720px;
   width: 450px;
   /*border-style: solid;*/
-  background-color: white;
+  background: transparent;
   border-width: 1px;
   border-color: black;
   border-radius: 5px;
