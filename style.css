@@ -580,7 +580,7 @@ a:active {
 .float-right {
   float: right;
 }
-
+/*
 .nav-lines {
   z-index: 2;
   height: 30px;
@@ -603,4 +603,4 @@ a:active {
   position: fixed;
   top: 10px;
   right: 10px;
-}
+}*/
