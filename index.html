@@ -8,6 +8,7 @@
 
 	<link rel="stylesheet" type="text/css" href="style.css">
 
+	<script src="index.js"></script>
 	<script type="text/javascript">
 	<!-->
 	var image1=new Image()
@@ -22,6 +23,8 @@
 	image5.src="IMG_1704.jpg"
 	var image6=new Image()
 	image6.src="IMG_1440.jpeg"
+
+
 	//-->
 	</script>
 </head>
@@ -70,22 +73,22 @@
 					<a href="#" class="site-name none">Mackenzie Chau</a>
 				</li>
 				<li class="nav-item">
-					<a href="#" class="nav-link">Home</a>
+					<a class="nav-link" onclick="smoothScroll(document.getElementById('home'))">Home</a>
 				</li>
 				<li class="nav-item">
-					<a href="#about" class="nav-link">About</a>
+					<a class="nav-link" onclick="smoothScroll(document.getElementById('about'))">About</a>
 				</li>
 				<li class="nav-item">
-					<a href="#skills" class="nav-link">Skills</a>
+					<a class="nav-link" onclick="smoothScroll(document.getElementById('skills'))">Skills</a>
 				</li>
 				<li class="nav-item">
-					<a href="#experience" class="nav-link">Experience</a>
+					<a class="nav-link" onclick="smoothScroll(document.getElementById('experience'))">Experience</a>
 				</li>
 				<li class="nav-item">
-					<a href="#projects" class="nav-link">Projects</a>
+					<a class="nav-link" onclick="smoothScroll(document.getElementById('projects'))">Projects</a>
 				</li>
 				<li class="nav-item">
-					<a href="#interests" class="nav-link">Interests</a>
+					<a class="nav-link" onclick="smoothScroll(document.getElementById('interests'))">Interests</a>
 				</li>
 			</ul>
 		</nav>
@@ -114,7 +117,7 @@
 
 
 
-	<div class="slider-container">
+	<div class="slider-container" id="home">
 		<img src="IMG_1137.jpeg" name="slide" width="850" height="637">
 	</div>
 
