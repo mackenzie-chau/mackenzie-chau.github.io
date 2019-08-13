@@ -302,7 +302,7 @@ h4 {
 
 /*about*/
 .about-title-box {
-  width: 15%;
+  width: 17%;
   height: 250px;
 }
 
@@ -690,9 +690,8 @@ h4 {
   left: 570px;
 }
 
+
 /*other*/
-
-
 a:link {
   color: black;
   text-decoration: none;
