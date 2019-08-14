@@ -254,8 +254,8 @@ h4 {
 
 .slider-container {
   z-index: 1;
-  height: 637px;
-  width: 30%;
+  height: 300px;
+  width: 400px;
   top: 0px;
   right: 0px;
   position: absolute;
