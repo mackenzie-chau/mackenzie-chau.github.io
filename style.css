@@ -18,7 +18,7 @@ h3 {
 }
 
 h4 {
-  font-size: 1.1vw;
+  font-size: 1.15vw;
 }
 
 .navbar {
@@ -586,176 +586,73 @@ h4 {
   text-align: center;
 }
 
+
+
+
 .picture1 {
-  height: 453px;
-  width: 340px;
-  background-color: red;
-  background: url('IMG_1767.jpeg') no-repeat 50% 50%;
-  background-size: contain;
-  position: relative;
-  top: 30px;
-  left: 190px;
-  clear: left;
+  height: 400px;
+  width: 300px;
 }
 
 .picture2 {
-  height: 453px;
-  width: 340px;
-  background: url('IMG_1196.jpeg') no-repeat 50% 50%;
-  background-size: contain;
-  position: relative;
-  top: 30px;
-  left: 210px;
+  height: 400px;
+  width: 300px;
 }
 
 .picture3 {
-  height: 533px;
+  height: 400px;
   width: 300px;
-  position: relative;
-  top: 30px;
-  left: 230px;
 }
 
 .picture4 {
-  height: 393px;
-  width: 700px;
-  position: relative;
-  top: -30px;
-  left: 190px;
+  height: 400px;
+  width: 300px;
 }
 
 .picture5 {
-  height: 533px;
+  height: 400px;
   width: 300px;
-  position: relative;
-  top: 100px;
-  left: 210px;
 }
 
 .picture6 {
-  height: 340px;
-  width: 453px;
-  transform: rotate(90deg);
-  background: url('IMG_0926.jpeg') no-repeat 50% 50%;
-  background-size: contain;
-  position: relative;
-  top: -93px;
-  left: 133px;
-  clear: left;
+  height: 400px;
+  width: 300px;
 }
 
 .picture7 {
-  height: 453px;
-  width: 340px;
-  background: url('IMG_0652.jpeg') no-repeat 50% 50%;
-  background-size: contain;
-  position: relative;
-  top: -150px;
-  left: 100px;
+  height: 400px;
+  width: 300px;
 }
 
 .picture8 {
-  height: 533px;
+  height: 400px;
   width: 300px;
-  position: relative;
-  top: 175px;
-  left: 115px;
 }
 
 .picture9 {
-  height: 393px;
-  width: 700px;
-  position: relative;
-  top: -218px;
-  left: 190px;
+  height: 400px;
+  width: 300px;
 }
 
 .picture10 {
-  height: 480px;
-  width: 360px;
-  background: url('IMG_1588.jpeg') no-repeat 50% 50%;
-  background-size: contain;
-  position: relative;
-  top: 200px;
-  left: -510px;
+  height: 400px;
+  width: 300px;
 }
 
 .picture11 {
-  height: 480px;
-  width: 640px;
-  background: url('IMG_0706.JPG') no-repeat 50% 50%;
-  background-size: contain;
-  position: relative;
-  top: -282px;
-  left: 570px;
+  height: 400px;
+  width: 300px;
 }
 
 
-/*.container {
-    display: grid;
-    grid-gap: 5px;
-    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
-    grid-auto-rows: 75px;
-}*/
 
 .container1 {
     display: grid;
-    grid-gap: 3px;
-    grid-template-columns: repeat(12, 1fr);
-    grid-auto-rows: 100px;
-    grid-template-areas:
-        ". . a a a b b b c c . ."
-        ". . a a a b b b c c . ."
-        ". . . . . b b b c c . ."
-        ". . s s s s s s s s . ."
-        ". . w w w w w w w w . ."
-        ". . w w w w w w w w . .";
-}*/
-
-.a {
-    grid-area: a;
+    grid-gap: 5px;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-auto-rows: 400px;
+    grid-auto-flow: dense;
 }
-
-.b {
-    grid-area: b;
-}
-
-.c {
-    grid-area: c;
-}
-
-.d {
-    grid-area: d;
-}
-
-.e {
-    grid-area: e;
-}
-
-.f {
-    grid-area: f;
-}
-
-.g {
-    grid-area: g;
-}
-
-.h {
-    grid-area: h;
-}
-
-.i {
-    grid-area: i;
-}
-
-.j {
-    grid-area: j;
-}
-
-.k {
-    grid-area: k;
-}
-
 
 
 
