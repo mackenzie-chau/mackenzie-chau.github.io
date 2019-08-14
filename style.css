@@ -255,13 +255,11 @@ h4 {
 .slider-container {
   z-index: 1;
   height: 637px;
-  width: 60%;
+  width: 40%;
   top: 0px;
   right: 0px;
   position: absolute;
 }
-
-
 
 
 
@@ -700,27 +698,15 @@ a:active {
 .float-right {
   float: right;
 }
-/*
-.nav-lines {
-  z-index: 2;
-  height: 30px;
-  width: 30px;
-  border-radius: 2px;
-  background: url("https://cdn0.iconfinder.com/data/icons/user-interface-150/24/List_menu_toggle-512.png")
-    no-repeat 50% 50%;
-  background-size: contain;
-  position: fixed;
-  top: 10px;
-  right: 10px;
-}
 
-.nav-color {
-  z-index: 2;
-  height: 31px;
-  width: 31px;
-  background-color: rgb(169, 175, 98);
-  border-radius: 2px;
-  position: fixed;
-  top: 10px;
-  right: 10px;
-}*/
+
+@media screen and (min-width: 480px) {
+  .slider-container {
+    z-index: 1;
+    height: 637px;
+    width: 60%;
+    top: 0px;
+    right: 0px;
+    position: absolute;
+  }
+}
