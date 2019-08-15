@@ -211,6 +211,11 @@ h4 {
   left: -2px;
 }
 
+.mail-size {
+  width: 20px;
+  height: 20px;
+}
+
 .margin {
   margin: 8px;
 }
@@ -778,15 +783,6 @@ a:active {
     left: 35%;
   }
 
-  .pink-strip {
-    /*width: 2.5%;
-    height: 555px;
-    position: absolute;
-    background-color: rgb(255, 20, 147);
-    left: 15px;*/
-    display: none;
-  }
-
   .headshot {
     width: 200px;
     height: 200px;
@@ -796,6 +792,22 @@ a:active {
     display: block;
     margin-left: auto;
     margin-right: auto;
+  }
+
+  .pink-strip {
+    /*width: 2.5%;
+    height: 555px;
+    position: absolute;
+    background-color: rgb(255, 20, 147);
+    left: 15px;*/
+    display: none;
+  }
+
+  .mail-size {
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: 2px;
   }
 
   h1 {
