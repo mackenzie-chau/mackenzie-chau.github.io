@@ -770,7 +770,7 @@ a:active {
   .header {
     z-index: 3;
     position: relative;
-    height: 500px;
+    height: 325px;
     width: 35%;
     /*border-style: solid;*/
     background: transparent;
@@ -847,7 +847,7 @@ a:active {
     position: relative;
     left: 15%;
     width: 75%;
-    font-size: 1.4vw;
+    font-size: 1.5vw;
   }
 
 
