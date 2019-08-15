@@ -742,5 +742,18 @@ a:active {
     left: 35%;
   }
 
+  .pink-strip {
+    /*width: 2.5%;
+    height: 555px;
+    position: absolute;
+    background-color: rgb(255, 20, 147);
+    left: 15px;*/
+    display: none;
+  }
+
+
+
+
+
 
 }
