@@ -765,7 +765,7 @@ a:active {
   .header {
     z-index: 3;
     position: relative;
-    height: 750px;
+    height: 500px;
     width: 35%;
     /*border-style: solid;*/
     background: transparent;
@@ -785,5 +785,40 @@ a:active {
     background-color: rgb(255, 20, 147);
     left: 15px;*/
     display: none;
+  }
+
+  .headshot {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: url('IMG_1395.jpeg') no-repeat 50% 50%;
+    background-size: contain;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  h1 {
+    font-size: 2vw;
+  }
+
+  h2 {
+    font-size: 1.6vw;
+  }
+
+  h3 {
+    font-size: 1.4vw;
+  }
+
+  h4 {
+    font-size: 1.35vw;
+  }
+
+  .name {
+    font-size: 3.2vw;
+  }
+
+  .title {
+    font-size: 1.95vw;
   }
 }
