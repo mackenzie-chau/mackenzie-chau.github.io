@@ -965,12 +965,12 @@ a:active {
 
   .interests-box1 {
     height: auto;
-    width: 20%;
+    width: 21%;
     border-style: solid;
     border-color: black;
     border-width: 2px;
     position: relative;
-    left: 4%;
+    left: 2%;
   }
 
   .interests-box2 {
@@ -980,7 +980,7 @@ a:active {
     border-color: black;
     border-width: 2px;
     position: relative;
-    left: 6%;
+    left: 4%;
   }
 
   .interests-box3 {
@@ -990,17 +990,17 @@ a:active {
     border-color: black;
     border-width: 2px;
     position: relative;
-    left: 8%;
+    left: 6%;
   }
 
   .interests-box4 {
     height: auto;
-    width: 18%;
+    width: 19%;
     border-style: solid;
     border-color: black;
     border-width: 2px;
     position: relative;
-    left: 10%;
+    left: 8%;
   }
 
 
