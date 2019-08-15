@@ -845,7 +845,7 @@ a:active {
   .about-text {
     top: 60px;
     position: relative;
-    left: 15%;
+    left: 10%;
     width: 75%;
     font-size: 1.5vw;
   }
