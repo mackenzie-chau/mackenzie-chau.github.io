@@ -293,7 +293,7 @@ h4 {
 
 .push-left {
   position: relative;
-  left: 40px;
+  left: 3%;
 }
 
 .push-way-down {
@@ -859,7 +859,7 @@ a:active {
 
   .skills-box1 {
     height: auto;
-    width: 17%;
+    width: 20%;
     border-style: solid;
     border-width: 2px;
     border-color: white;
@@ -870,7 +870,7 @@ a:active {
 
   .skills-box2 {
     height: auto;
-    width: 17%;
+    width: 20%;
     border-style: solid;
     border-width: 2px;
     border-color: white;
@@ -881,7 +881,7 @@ a:active {
 
   .skills-box3 {
     height: auto;
-    width: 18%;
+    width: 20%;
     border-style: solid;
     border-width: 2px;
     border-color: white;
@@ -965,7 +965,7 @@ a:active {
 
   .interests-box1 {
     height: auto;
-    width: 19%;
+    width: 20%;
     border-style: solid;
     border-color: black;
     border-width: 2px;
@@ -975,7 +975,7 @@ a:active {
 
   .interests-box2 {
     height: auto;
-    width: 16%;
+    width: 18%;
     border-style: solid;
     border-color: black;
     border-width: 2px;
@@ -985,7 +985,7 @@ a:active {
 
   .interests-box3 {
     height: auto;
-    width: 16%;
+    width: 18%;
     border-style: solid;
     border-color: black;
     border-width: 2px;
@@ -995,7 +995,7 @@ a:active {
 
   .interests-box4 {
     height: auto;
-    width: 16.5%;
+    width: 18%;
     border-style: solid;
     border-color: black;
     border-width: 2px;
