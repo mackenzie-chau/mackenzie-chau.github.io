@@ -284,7 +284,7 @@ h4 {
 
 .pink-line {
   height: 3%;
-  width: 20%;
+  width: 40%;
   position: relative;
   bottom: 15px;
   left: 5px;
@@ -303,7 +303,6 @@ h4 {
 
 /*about*/
 .about-title-box {
-  width: 17%;
   height: 250px;
 }
 
@@ -323,8 +322,9 @@ h4 {
 .about-text {
   top: 60px;
   position: relative;
+  left: 15%;
   width: 75%;
-  font-size: 1.1vw;
+  font-size: 1.2vw;
 }
 
 
@@ -359,7 +359,7 @@ h4 {
 
 .skills-box1 {
   height: auto;
-  width: 17%;
+  width: 18%;
   border-style: solid;
   border-width: 2px;
   border-color: white;
@@ -370,7 +370,7 @@ h4 {
 
 .skills-box2 {
   height: auto;
-  width: 17%;
+  width: 18%;
   border-style: solid;
   border-width: 2px;
   border-color: white;
@@ -381,7 +381,7 @@ h4 {
 
 .skills-box3 {
   height: auto;
-  width: 17%;
+  width: 18%;
   border-style: solid;
   border-width: 2px;
   border-color: white;
@@ -838,6 +838,22 @@ a:active {
     height: 200px;
     width: 150px;
   }
+
+
+
+
+  .about-text {
+    top: 60px;
+    position: relative;
+    left: 15%;
+    width: 75%;
+    font-size: 1.4vw;
+  }
+
+
+
+
+
 
 
 
