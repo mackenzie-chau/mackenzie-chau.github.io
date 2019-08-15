@@ -717,11 +717,12 @@ a:active {
 
 @media screen and (max-width: 480px) {
   .slider-container {
-    z-index: 1;
+    /*z-index: 1;
     height: 637px;
     width: 30%;
     top: 0px;
     right: 0px;
-    position: absolute;
+    position: absolute;*/
+    display: none;
   }
 }
