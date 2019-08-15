@@ -162,7 +162,7 @@ h4 {
   color: black;
   text-align: center;
   top: 40px;
-  left: 30px;
+  left: 2.5%;
 }
 
 .name {
@@ -198,7 +198,7 @@ h4 {
 }
 
 .pink-strip {
-  width: 8px;
+  width: 2.5%;
   height: 555px;
   position: absolute;
   background-color: rgb(255, 20, 147);
@@ -715,7 +715,7 @@ a:active {
 }
 
 
-@media screen and (max-device-width: 600px) {
+@media screen and (max-width: 600px) {
   .slider-container {
     /*z-index: 1;
     height: 637px;
@@ -725,4 +725,22 @@ a:active {
     position: absolute;*/
     display: none;
   }
+
+  .header {
+    z-index: 3;
+    position: relative;
+    height: 750px;
+    width: 35%;
+    /*border-style: solid;*/
+    background: transparent;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 5px;
+    color: black;
+    text-align: center;
+    top: 40px;
+    left: 35%;
+  }
+
+
 }
