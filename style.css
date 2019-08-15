@@ -255,14 +255,17 @@ h4 {
 .slider-container {
   z-index: 1;
   height: 637px;
-  width: 40%;
+  width: 60%;
   top: 0px;
   right: 0px;
   position: absolute;
 }
 
-
-
+.slider {
+  width: 850px;
+  height: 637px;
+  background-size: contain;
+}
 
 
 
@@ -700,11 +703,11 @@ a:active {
 }
 
 
-@media screen and (min-width: 480px) {
+@media screen and (max-width: 480px) {
   .slider-container {
     z-index: 1;
     height: 637px;
-    width: 60%;
+    width: 30%;
     top: 0px;
     right: 0px;
     position: absolute;
