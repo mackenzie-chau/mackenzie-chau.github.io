@@ -35,7 +35,7 @@ h4 {
   top: 0px;
   width: 260px;
   height: 100%;
-  background-color: rgb(127, 160, 70);
+  background-color: rgb(142, 160, 70);
   text-align: center;
   transition: 1s ease;
 }
@@ -832,11 +832,11 @@ a:active {
   }
 
   .name {
-    font-size: 3.6vw;
+    font-size: 3.8vw;
   }
 
   .title {
-    font-size: 2.35vw;
+    font-size: 2.45vw;
   }
 
   .list {
