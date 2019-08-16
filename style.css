@@ -839,7 +839,7 @@ a:active {
 
   .list {
     position: relative;
-    left: -18%;
+    left: -30%;
     margin-right: 10px;
   }
 
@@ -1012,7 +1012,7 @@ a:active {
 
   .interests-box1 {
     height: auto;
-    width: 21%;
+    width: 20%;
     border-style: solid;
     border-color: black;
     border-width: 1px;
@@ -1042,7 +1042,7 @@ a:active {
 
   .interests-box4 {
     height: auto;
-    width: 19%;
+    width: 17%;
     border-style: solid;
     border-color: black;
     border-width: 1px;
