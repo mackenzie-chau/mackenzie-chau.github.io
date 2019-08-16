@@ -826,7 +826,7 @@ a:active {
   }
 
   h4 {
-    font-size: 1.7vw;
+    font-size: 1.6vw;
   }
 
   .name {
@@ -1057,6 +1057,7 @@ a:active {
       grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
       grid-auto-rows: 200px;
       grid-auto-flow: dense;
+      margin-top: 5%;
       margin-left: 5%;
       margin-bottom: 5%;
   }
