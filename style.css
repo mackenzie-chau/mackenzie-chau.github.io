@@ -774,7 +774,7 @@ a:active {
   .header {
     z-index: 3;
     position: relative;
-    height: 325px;
+    height: 400px;
     width: 35%;
     /*border-style: solid;*/
     background: transparent;
