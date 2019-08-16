@@ -35,7 +35,7 @@ h4 {
   top: 0px;
   width: 260px;
   height: 100%;
-  background-color: rgb(169, 185, 108);
+  background-color: rgb(127, 160, 70);
   text-align: center;
   transition: 1s ease;
 }
@@ -841,7 +841,7 @@ a:active {
 
   .list {
     position: relative;
-    left: -8%;
+    left: -12%;
     margin-right: 10px;
   }
 
