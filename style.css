@@ -774,7 +774,7 @@ a:active {
     z-index: 3;
     position: relative;
     height: 400px;
-    width: 35%;
+    width: 50%;
     /*border-style: solid;*/
     background: transparent;
     border-width: 1px;
@@ -783,7 +783,7 @@ a:active {
     color: black;
     text-align: center;
     top: 40px;
-    left: 32.5%;
+    left: 25%;
   }
 
   .headshot {
@@ -835,7 +835,7 @@ a:active {
   }
 
   .title {
-    font-size: 2.45vw;
+    font-size: 2.55vw;
   }
 
   .list {
