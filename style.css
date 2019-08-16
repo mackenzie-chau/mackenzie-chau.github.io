@@ -815,27 +815,27 @@ a:active {
   }
 
   h1 {
-    font-size: 2.4vw;
+    font-size: 2.6vw;
   }
 
   h2 {
-    font-size: 2vw;
+    font-size: 2.4vw;
   }
 
   h3 {
-    font-size: 1.8vw;
+    font-size: 2vw;
   }
 
   h4 {
-    font-size: 1.55vw;
+    font-size: 1.7vw;
   }
 
   .name {
-    font-size: 3.8vw;
+    font-size: 4vw;
   }
 
   .title {
-    font-size: 2.55vw;
+    font-size: 2.75vw;
   }
 
   .list {
@@ -895,7 +895,7 @@ a:active {
     position: relative;
     left: 10%;
     width: 75%;
-    font-size: 1.7vw;
+    font-size: 1.9vw;
   }
 
 
