@@ -774,7 +774,7 @@ a:active {
     z-index: 3;
     position: relative;
     height: 400px;
-    width: 50%;
+    width: 80%;
     /*border-style: solid;*/
     background: transparent;
     border-width: 1px;
@@ -783,12 +783,12 @@ a:active {
     color: black;
     text-align: center;
     top: 40px;
-    left: 25%;
+    left: 10%;
   }
 
   .headshot {
-    width: 150px;
-    height: 150px;
+    width: 170px;
+    height: 170px;
     border-radius: 50%;
     background: url('IMG_1395.jpeg') no-repeat 50% 50%;
     background-size: contain;
@@ -830,11 +830,11 @@ a:active {
   }
 
   .name {
-    font-size: 4vw;
+    font-size: 4.4vw;
   }
 
   .title {
-    font-size: 2.75vw;
+    font-size: 2.95vw;
   }
 
   .list {
