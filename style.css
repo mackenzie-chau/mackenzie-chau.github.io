@@ -780,7 +780,7 @@ a:active {
     color: black;
     text-align: center;
     top: 40px;
-    left: 35%;
+    left: 32.5%;
   }
 
   .headshot {
@@ -811,27 +811,27 @@ a:active {
   }
 
   h1 {
-    font-size: 2vw;
+    font-size: 2.4vw;
   }
 
   h2 {
-    font-size: 1.6vw;
+    font-size: 2vw;
   }
 
   h3 {
-    font-size: 1.4vw;
+    font-size: 1.8vw;
   }
 
   h4 {
-    font-size: 1.35vw;
+    font-size: 1.55vw;
   }
 
   .name {
-    font-size: 3.2vw;
+    font-size: 3.6vw;
   }
 
   .title {
-    font-size: 1.95vw;
+    font-size: 2.35vw;
   }
 
   .picture {
@@ -847,7 +847,7 @@ a:active {
     position: relative;
     left: 10%;
     width: 75%;
-    font-size: 1.5vw;
+    font-size: 1.7vw;
   }
 
 
@@ -861,7 +861,7 @@ a:active {
     height: auto;
     width: 20%;
     border-style: solid;
-    border-width: 2px;
+    border-width: 1px;
     border-color: white;
     position: relative;
     top: 40px;
@@ -872,7 +872,7 @@ a:active {
     height: auto;
     width: 20%;
     border-style: solid;
-    border-width: 2px;
+    border-width: 1px;
     border-color: white;
     position: relative;
     top: 40px;
@@ -883,7 +883,7 @@ a:active {
     height: auto;
     width: 20%;
     border-style: solid;
-    border-width: 2px;
+    border-width: 1px;
     border-color: white;
     position: relative;
     top: 40px;
@@ -968,9 +968,9 @@ a:active {
     width: 21%;
     border-style: solid;
     border-color: black;
-    border-width: 2px;
+    border-width: 1px;
     position: relative;
-    left: 2%;
+    left: 1%;
   }
 
   .interests-box2 {
@@ -978,9 +978,9 @@ a:active {
     width: 18%;
     border-style: solid;
     border-color: black;
-    border-width: 2px;
+    border-width: 1px;
     position: relative;
-    left: 4%;
+    left: 3%;
   }
 
   .interests-box3 {
@@ -988,9 +988,9 @@ a:active {
     width: 18%;
     border-style: solid;
     border-color: black;
-    border-width: 2px;
+    border-width: 1px;
     position: relative;
-    left: 6%;
+    left: 5%;
   }
 
   .interests-box4 {
@@ -998,9 +998,9 @@ a:active {
     width: 19%;
     border-style: solid;
     border-color: black;
-    border-width: 2px;
+    border-width: 1px;
     position: relative;
-    left: 8%;
+    left: 7%;
   }
 
 
