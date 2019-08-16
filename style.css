@@ -35,7 +35,7 @@ h4 {
   top: 0px;
   width: 260px;
   height: 100%;
-  background-color: rgb(169, 175, 98);
+  background-color: rgb(169, 185, 108);
   text-align: center;
   transition: 1s ease;
 }
@@ -755,14 +755,12 @@ a:active {
   float: right;
 }
 
-ul li {
-  margin-right: 10px;
-}
 
 
 
 
-@media screen and (max-width: 480px) {
+
+@media screen and (max-width: 600px) {
   .slider-container {
     /*z-index: 1;
     height: 637px;
@@ -814,6 +812,7 @@ ul li {
     height: 10px;
     position: relative;
     top: 2px;
+    left: 0.5px;
   }
 
   h1 {
@@ -840,10 +839,44 @@ ul li {
     font-size: 2.35vw;
   }
 
-  .picture {
-    height: 200px;
-    width: 150px;
+  .list {
+    position: relative;
+    left: -8%;
+    margin-right: 10px;
   }
+
+
+
+
+
+
+
+
+  .nav-item > .site-name {
+    text-decoration: none;
+    text-align: center;
+    padding-left: 1.5em;
+    padding-top: 0.8em;
+    padding-bottom: 0.2em;
+    font-size: 1.6em;
+    color: black;
+  }
+
+  .nav-item > .nav-link {
+    text-decoration: none;
+    color: black;
+    font-size: 1.0em;
+    padding: 1em;
+    flex: 1;
+  }
+
+
+
+
+
+
+
+
 
 
 
@@ -1018,6 +1051,11 @@ ul li {
       grid-auto-flow: dense;
       margin-left: 5%;
       margin-bottom: 5%;
+  }
+
+  .picture {
+    height: 200px;
+    width: 150px;
   }
 
 
