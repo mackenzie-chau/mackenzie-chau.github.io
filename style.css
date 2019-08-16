@@ -774,7 +774,7 @@ a:active {
     z-index: 3;
     position: relative;
     height: 400px;
-    width: 80%;
+    width: 60%;
     /*border-style: solid;*/
     background: transparent;
     border-width: 1px;
@@ -783,7 +783,7 @@ a:active {
     color: black;
     text-align: center;
     top: 40px;
-    left: 10%;
+    left: 20%;
   }
 
   .headshot {
