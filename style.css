@@ -759,7 +759,7 @@ a:active {
 
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 510px) {
   .slider-container {
     /*z-index: 1;
     height: 637px;
@@ -839,7 +839,7 @@ a:active {
 
   .list {
     position: relative;
-    left: -30%;
+    left: -35%;
     margin-right: 10px;
   }
 
