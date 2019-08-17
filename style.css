@@ -1048,7 +1048,7 @@ a:active {
   .slider-container {
     z-index: 1;
     height: 525px;
-    width: 70%;
+    width: 65%;
     top: 0px;
     right: 0px;
     position: absolute;
@@ -1058,6 +1058,21 @@ a:active {
     width: 700px;
     height: 525px;
     background-size: contain;
+  }
+
+
+
+
+
+  .headshot {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: url('IMG_1395.jpeg') no-repeat 50% 50%;
+    background-size: contain;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
 
 
