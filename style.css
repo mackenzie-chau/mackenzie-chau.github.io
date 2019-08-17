@@ -1066,8 +1066,8 @@ a:active {
   .header {
     z-index: 3;
     position: relative;
-    height: 370px;
-    width: 60%;
+    height: 600px;
+    width: 35%;
     /*border-style: solid;*/
     background: transparent;
     border-width: 1px;
@@ -1076,7 +1076,7 @@ a:active {
     color: black;
     text-align: center;
     top: 40px;
-    left: 20%;
+    left: 2.5%;
   }
 
   .headshot {
@@ -1089,6 +1089,17 @@ a:active {
     margin-left: auto;
     margin-right: auto;
   }
+
+  .pink-strip {
+    width: 2.5%;
+    height: 455px;
+    position: absolute;
+    background-color: rgb(255, 20, 147);
+    left: 15px;
+  }
+
+
+
 
 
 
