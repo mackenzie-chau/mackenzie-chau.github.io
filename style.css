@@ -1063,6 +1063,21 @@ a:active {
 
 
 
+  .header {
+    z-index: 3;
+    position: relative;
+    height: 370px;
+    width: 60%;
+    /*border-style: solid;*/
+    background: transparent;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 5px;
+    color: black;
+    text-align: center;
+    top: 40px;
+    left: 20%;
+  }
 
   .headshot {
     width: 200px;
