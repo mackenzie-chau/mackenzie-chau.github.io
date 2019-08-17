@@ -1042,6 +1042,35 @@ a:active {
     height: 15px;
   }
 
+
+
+
+  .slider-container {
+    z-index: 1;
+    height: 525px;
+    width: 70%;
+    top: 0px;
+    right: 0px;
+    position: absolute;
+  }
+
+  .slider {
+    width: 700px;
+    height: 525px;
+    background-size: contain;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
   .container1 {
       display: grid;
       grid-gap: 5px;
