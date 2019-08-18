@@ -25,6 +25,10 @@ h4 {
   font-size: 1.15vw;
 }
 
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
 
 
 
@@ -759,7 +763,7 @@ a:active {
 
 
 
-@media only screen and (max-width: 510px) {
+@media screen and (max-width: 510px) {
   .slider-container {
     /*z-index: 1;
     height: 637px;
@@ -1036,7 +1040,7 @@ a:active {
 
 
 
-@media only screen and (max-width: 1024px) and (min-width: 511px) {
+@media screen and (min-width: 511px) and (max-width: 1024px) {
   .mail-size {
     width: 15px;
     height: 15px;
