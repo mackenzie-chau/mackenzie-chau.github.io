@@ -1101,22 +1101,11 @@ a:active {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
   .container1 {
       display: grid;
       grid-gap: 5px;
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-      grid-auto-rows: 267px;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      grid-auto-rows: 200px;
       grid-auto-flow: dense;
       margin-top: 5%;
       margin-left: 5%;
@@ -1124,7 +1113,7 @@ a:active {
   }
 
   .picture {
-    height: 267px;
-    width: 200px;
+    height: 200px;
+    width: 150px;
   }
 }
